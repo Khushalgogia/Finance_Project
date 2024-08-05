@@ -1,0 +1,7 @@
+This code will give 2 dataframes
+detailed_df gives transaction details of the particular share which it is doing and XIRR df gives xirr
+
+You just need to change the dates in the dates variable and also
+change the symbol as per your requirement in the symbol requirement
+
+Currently it is taking Share_Trading-df symbols, you can change it easily
